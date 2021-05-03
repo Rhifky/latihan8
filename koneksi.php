@@ -3,7 +3,7 @@
 $host="localhost";
 $user="root";
 $password="";
-$database="db_siswa";
+$database="data_diri";
 // perintah php untuk akses ke database
 $koneksi=mysqli_connect($host, $user, $password, $database);
 ?>
